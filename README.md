@@ -23,6 +23,7 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 📊 I use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
 
 📊 Visualizing Data for Better Decision-Making!
+
 ![Excel-project](https://github.com/user-attachments/assets/7a60cb78-670d-4f5f-95e4-3918a769b415)
 
 📌 Insights from the Dashboard
@@ -38,3 +39,5 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 ✅ Wait time trends and impact on satisfaction
 ✅ Age-group-wise patient distribution
 ✅ Department workload and efficiency
+## Write a Professional Post for LinkedIn, Medium, or Blog
+📌 Post Title:
