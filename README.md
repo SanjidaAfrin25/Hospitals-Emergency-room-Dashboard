@@ -1,17 +1,17 @@
 # Hospitals-Emergency-room-Dashboard
-#📌 Project Title:
+# 📌 Project Title:
 
 🚑 Hospital Emergency Room Dashboard – A Data-Driven Approach to ER Performance 📊
 
-#📌 Introduction (Hook)
+# 📌 Introduction (Hook)
 "Did you know that long wait times in emergency rooms can impact patient satisfaction and hospital efficiency? 🚨
 
 To address this, I developed a Hospital Emergency Room Dashboard that provides key insights into patient flow, wait times, admissions, and departmental workload."
 
-📌 Project Overview
+# 📌 Project Overview
 🔹 Technologies Used: Excel(Power Query, Power Pivot,Pivot table)
 
-🔍 Key Insights Covered in the Dashboard:
+# 🔍 Key Insights Covered in the Dashboard:
 ✅ Total Number of Patients
 ✅ Average Wait Time to See a Patient
 ✅ Patient Admission Status (Admitted/Not Admitted)
@@ -22,7 +22,7 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 
 📊 I use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
 
-📊 Visualizing Data for Better Decision-Making!
+# 📊 Visualizing Data for Better Decision-Making!
 
 ![Excel-project](https://github.com/user-attachments/assets/7a60cb78-670d-4f5f-95e4-3918a769b415)
 
@@ -39,5 +39,4 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 ✅ Wait time trends and impact on satisfaction
 ✅ Age-group-wise patient distribution
 ✅ Department workload and efficiency
-## Write a Professional Post for LinkedIn, Medium, or Blog
-📌 Post Title:
+
