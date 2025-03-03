@@ -32,7 +32,7 @@ I used Power query to Extract and Transform data, Power Pivot to Create relation
 📌 Average wait time is 34.92 minutes – how can we reduce this? 🤔
 📌 45% of patients experienced delays – suggesting a need for better resource management
 📌 53% of patients were male, 47% female – gender-based healthcare analysis
-<a herf="https://github.com/SanjidaAfrin25/Hospitals-Emergency-room-Dashboard/blob/main/Excel-project.png"> View Dashboard</a>
+- <a href="https://github.com/SanjidaAfrin25/Hospitals-Emergency-room-Dashboard/blob/main/Excel-project.png"> View Dashboard</a>
 
 # 📌 KPIs Tracked
 ✅ Admission vs. non-admission rate
