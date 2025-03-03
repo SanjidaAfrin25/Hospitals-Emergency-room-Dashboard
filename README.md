@@ -20,7 +20,7 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 ✅ Department Referrals
 ✅ Percentage of Patients Seen Within 30 Minutes
 # 📊 Process
-I use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
+I used Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
 
 # 📊 Visualizing Data for Better Decision-Making!
 
@@ -32,6 +32,7 @@ I use Power query to Extract and Transform data, Power Pivot to Create relations
 📌 Average wait time is 34.92 minutes – how can we reduce this? 🤔
 📌 45% of patients experienced delays – suggesting a need for better resource management
 📌 53% of patients were male, 47% female – gender-based healthcare analysis
+<a herf=""> View Dashboard</a>
 
 # 📌 KPIs Tracked
 ✅ Admission vs. non-admission rate
