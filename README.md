@@ -39,7 +39,7 @@ I used Power query to Extract and Transform data, Power Pivot to Create relation
 ✅Patient Admission Flag – Indicates if the patient was admitted (Yes/No)
 ✅Patient Satisfaction Score – Satisfaction rating (e.g., 1 to 5)
 ✅Patient Wait Time – Time (in minutes) before treatment
--<a href="">View Datasets</a>
+-<a href="https://github.com/SanjidaAfrin25/Hospitals-Emergency-room-Dashboard/blob/main/Datasets.csv">View Datasets</a>
 
 # 📌 Insights from the Dashboard
 
@@ -57,3 +57,5 @@ I used Power query to Extract and Transform data, Power Pivot to Create relation
 ✅ Department workload and efficiency
 # 📌 Final Conclusion
 The Hospital Emergency Room Dashboard provides a data-driven solution to improve ER efficiency, patient care, and hospital operations. By analyzing admission rates, wait times, patient demographics, and departmental referrals, this dashboard helps identify bottlenecks, optimize resources, and enhance patient satisfaction.
+# 🔗 Check out the full project on GitHub <a href="">(View Repo)</a>
+# 💬 Let’s discuss! How can we further enhance ER efficiency using analytics?
