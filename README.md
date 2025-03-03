@@ -19,8 +19,8 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 ✅ Gender Analysis
 ✅ Department Referrals
 ✅ Percentage of Patients Seen Within 30 Minutes
-
-📊 I use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
+# 📊 Process
+I use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.
 
 # 📊 Visualizing Data for Better Decision-Making!
 
