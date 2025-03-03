@@ -26,6 +26,21 @@ I used Power query to Extract and Transform data, Power Pivot to Create relation
 
 ![Excel-project](https://github.com/user-attachments/assets/7a60cb78-670d-4f5f-95e4-3918a769b415)
 
+# 📌 Dataset Headings
+
+Patient Id – Unique identifier for each patient
+Patient Admission Date – Date of hospital visit
+Patient First Initial – First letter of the patient’s name
+Patient Last Name – Last name of the patient
+Patient Gender – Male/Female/Other
+Patient Age – Age of the patient
+Patient Race – Ethnicity or racial background
+Department Referral – Department where the patient was referred (e.g., Orthopedics, Cardiology)
+Patient Admission Flag – Indicates if the patient was admitted (Yes/No)
+Patient Satisfaction Score – Satisfaction rating (e.g., 1 to 5)
+Patient Wait Time – Time (in minutes) before treatment
+-<a href="">View Datasets</a>
+
 # 📌 Insights from the Dashboard
 
 📌 51.35% of patients were admitted, while 48.65% were not
@@ -40,4 +55,5 @@ I used Power query to Extract and Transform data, Power Pivot to Create relation
 ✅ Wait time trends and impact on satisfaction
 ✅ Age-group-wise patient distribution
 ✅ Department workload and efficiency
-
+# 📌 Final Conclusion
+The Hospital Emergency Room Dashboard provides a data-driven solution to improve ER efficiency, patient care, and hospital operations. By analyzing admission rates, wait times, patient demographics, and departmental referrals, this dashboard helps identify bottlenecks, optimize resources, and enhance patient satisfaction.
