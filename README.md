@@ -12,6 +12,7 @@ To address this, I developed a Hospital Emergency Room Dashboard that provides k
 🔹 Technologies Used: Excel(Power Query, Power Pivot,Pivot table)
 
 # 🔍 Key Insights Covered in the Dashboard:
+## 
 ✅ Total Number of Patients
 ✅ Average Wait Time to See a Patient
 ✅ Patient Admission Status (Admitted/Not Admitted)
